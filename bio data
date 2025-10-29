@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+printf("biodata");
+printf("name:m.vivek");
+printf("age:18");
+printf("address:rajahmundry);
+return 0;
+}
